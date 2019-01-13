@@ -1,2 +1,0 @@
-# herokuapp
-Heroku App Test
